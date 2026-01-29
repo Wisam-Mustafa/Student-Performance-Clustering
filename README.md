@@ -5,7 +5,7 @@ This project leverages machine learning (Unsupervised Learning) to analyze stude
 
 ##  Technologies Used
 - **Python**: Core language.
-- **Pandas**: Data manipulation.
+- **Pandas & NumPy**: Data manipulation.
 - **Seaborn & Matplotlib**: Data visualization.
 - **Scikit-Learn**:
     - Data Preprocessing (StandardScaler, One-Hot Encoding).
